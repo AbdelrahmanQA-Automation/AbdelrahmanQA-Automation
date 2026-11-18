@@ -2,7 +2,7 @@
 
 **Web developer** (React, TypeScript, Firebase) with hands-on **API security QA** (Vitest, tenant isolation, RBAC).
 
-- **Now:** Freelance on [WitRADIUS](https://github.com/WitRADIUS/WitRADIUS) *(private)* — development + QA, agile (Plane, PRs), Cursor-assisted workflow  
+- **Now:** Freelance on *WitRADIUS — private freelance project (WiFi hotspot platform)* — development + QA, agile (Plane, PRs), Cursor-assisted workflow  
 - **Previously:** Full-stack @ MuvRai (React + Firebase), Canada  
 - **Location:** Alexandria, Egypt  
 - **Languages:** Arabic (native), English  
