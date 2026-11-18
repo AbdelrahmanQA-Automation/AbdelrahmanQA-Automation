@@ -1,12 +1,37 @@
 # Hi, I'm Abdelrahman Salama
 
-**Web developer** (React, TypeScript, Firebase) with hands-on **API security QA** (Vitest, tenant isolation, RBAC).
+**Web developer** — React, TypeScript, Firebase — with hands-on **API security QA** (Vitest, tenant isolation, RBAC).
 
-- **Now:** Freelance on *WitRADIUS — private freelance project (WiFi hotspot platform)* — development + QA, agile (Plane, PRs), Cursor-assisted workflow  
-- **Previously:** Full-stack @ MuvRai (React + Firebase), Canada  
-- **Location:** Alexandria, Egypt  
-- **Languages:** Arabic (native), English  
+**Open to** web developer roles (customer-facing sites, e-commerce storefronts, collaboration with design teams).
 
-**Stack:** React · Redux · Node/Express · TypeScript · Vitest · Git · Firebase  
+---
 
-📄 CV available on request · eng.abdelrahmansalama@gmail.com
+### What I'm doing now
+
+**Freelance · WitRADIUS** *(private side project, Aug 2026 – present)*  
+WiFi hotspot management platform — **development + QA** on a TypeScript monorepo (Express API, React admin, captive portal). Agile delivery (Plane, PR reviews). **Cursor**-assisted workflow with clear docs and quality gates.
+
+---
+
+### Background
+
+| | |
+|---|---|
+| **Previously** | Full-stack developer @ **MuvRai** (React + Firebase), Canada — menu CRUD, profiling app, Firebase Auth/Firestore |
+| **Education** | B.Eng., Production Engineering — Alexandria University |
+| **E-commerce** | Merchant **admin operations** (e.g. Shopify back office — catalog/orders); growing into storefront/platform work (e.g. Salla-style stacks) |
+| **Location** | Alexandria, Egypt |
+| **Languages** | Arabic (native) · English (professional) |
+
+---
+
+### Stack
+
+`React` · `Redux` · `TypeScript` · `Node` / `Express` · `Vitest` · `Firebase` · `REST` · `Git` · `HTML/CSS/SASS`
+
+---
+
+### Contact
+
+- **Email:** [eng.abdelrahmansalama@gmail.com](mailto:eng.abdelrahmansalama@gmail.com)  
+- **CV:** available on request (PDF)
